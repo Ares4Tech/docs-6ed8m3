@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-6z16x2.resultafacil.com.br/sitemap.xml
